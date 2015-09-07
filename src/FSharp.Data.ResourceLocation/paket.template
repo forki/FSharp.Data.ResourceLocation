@@ -1,0 +1,23 @@
+type project
+owners
+    Ryan Roberts
+authors 
+    Ryan Roberts
+projectUrl
+    http://github.com/ryansroberts/FSharp.Data.ResourceLocation
+iconUrl
+    https://raw.githubusercontent.com/ryansroberts/FSharp.Data.ResourceLocation/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/ryansroberts/FSharp.Data.ResourceLocation/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Strong types for dereferencing resources
+description
+    Description not set
+
+
